@@ -10,4 +10,4 @@ for futher more updates you can also follow me on
           facebook:@https://www.facebook.com/nitheeshs795
           Instagram:@https://www.instagram.com/nitheesh.s_anu/
           
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nitheesh_s)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nitheeshs795)](https://github.com/anuraghazra/github-readme-stats)
